@@ -3,7 +3,7 @@ import { Text } from '@sitecore-jss/sitecore-jss-react';
 
 const MyFirstComponent = (props) => (
   <div>
-    <p>Vishal</p>
+    <p>Vishal Yadav</p>
     <Text field={props.fields.heading} />
   </div>
 );
